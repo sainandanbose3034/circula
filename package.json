@@ -1,0 +1,11 @@
+{
+  "name": "circula",
+  "version": "1.0.0",
+  "description": "Circula — Decentralized Study Material Circulation Platform",
+  "scripts": {
+    "dev:client": "cd client && npm run dev",
+    "dev:server": "cd server && node server.js",
+    "dev": "start /B npm run dev:server & npm run dev:client",
+    "install:all": "cd client && npm install && cd ../server && npm install"
+  }
+}
