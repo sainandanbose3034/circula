@@ -12,15 +12,15 @@ Circula is a modern, full-stack web application designed to connect companies wi
   <img src="assets/circula_dashboard.png" alt="Circula Dashboard" width="100%" />
 </div>
 
-## ✨ Features
+##  Features
 
-- **💼 Company Portals:** Dedicated portals for companies to post, manage, and delete bounties.
-- **💰 Real-World Economy:** A fully integrated financial system handling fiat balances, payouts, and a robust 35% commission-based revenue model.
-- **📊 Admin Revenue Dashboard:** Comprehensive tracking of platform revenue, commissions, and overall financial integrity.
-- **🌙 Premium UI/UX:** Built with a beautiful dark mode aesthetic, vibrant neon accents, and smooth glassmorphism effects.
-- **🔒 Secure Architecture:** A scalable Express.js backend integrated seamlessly with a Next.js frontend.
+- ** Company Portals:** Dedicated portals for companies to post, manage, and delete bounties.
+- ** Real-World Economy:** A fully integrated financial system handling fiat balances, payouts, and a robust 35% commission-based revenue model.
+- ** Admin Revenue Dashboard:** Comprehensive tracking of platform revenue, commissions, and overall financial integrity.
+- ** Premium UI/UX:** Built with a beautiful dark mode aesthetic, vibrant neon accents, and smooth glassmorphism effects.
+- ** Secure Architecture:** A scalable Express.js backend integrated seamlessly with a Next.js frontend.
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 ### Frontend (Client)
 - **Framework:** [Next.js](https://nextjs.org/) (App Router)
@@ -33,7 +33,7 @@ Circula is a modern, full-stack web application designed to connect companies wi
 - **Authentication:** Custom JWT / Session Management
 - **Security:** Middleware layer for protected routes and document uploads
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### Prerequisites
 
@@ -86,11 +86,11 @@ npm run dev
 # Client runs on http://localhost:3000
 ```
 
-## 🤝 Contributing
+##  Contributing
 
 Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/sainandanbose3034/circula/issues).
 
-## 📄 License
+##  License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
